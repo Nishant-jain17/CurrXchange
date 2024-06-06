@@ -2,6 +2,10 @@
 
 
 Welcome to CurrXchange, a simple and intuitive currency converter website built using HTML, CSS, and JavaScript.
+<br>
+
+## Enjoy using CurrXchange !
+ 
 
 
 # Introduction
