@@ -6,7 +6,7 @@ Welcome to CurrXchange, a simple and intuitive currency converter website built 
 
 ## Enjoy using CurrXchange !
  
-
+https://nishant-jain17.github.io/CurrXchange/
 
 # Introduction
 CurrXchange is a web application that allows users to convert amounts between different currencies in real-time. It fetches the latest exchange rates from a reliable API and provides a user-friendly interface for quick conversions.
